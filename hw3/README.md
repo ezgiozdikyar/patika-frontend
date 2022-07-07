@@ -1,0 +1,1 @@
+# Patika.dev front-end homework 3
