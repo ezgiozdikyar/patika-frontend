@@ -1,0 +1,49 @@
+body {
+    font-size: medium;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ebe9f9+0,d8d0ef+50,c1bfea+100 */
+  background: rgb(235, 233, 249);
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, rgba(235, 233, 249, 1) 0%, rgba(216, 208, 239, 1) 50%, rgba(193, 191, 234, 1) 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, rgba(235, 233, 249, 1) 0%, rgba(216, 208, 239, 1) 50%, rgba(193, 191, 234, 1) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, rgba(235, 233, 249, 1) 0%, rgba(216, 208, 239, 1) 50%, rgba(193, 191, 234, 1) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ebe9f9', endColorstr='#c1bfea', GradientType=1);
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+.image {
+    width: 12em;
+    height: 15em;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(117, 0, 147);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h3 {
+    color: rgb(160, 8, 199);
+}
