@@ -1,3 +1,3 @@
 # Book Store
 This project contains simple book store.
-![](/demo/demo.gif)
+![](demo.gif)
