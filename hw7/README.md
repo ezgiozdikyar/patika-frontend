@@ -1,3 +1,4 @@
 # Book Store
-This project contains simple book store.
-![](/demo/demo.gif)
+This project contains simple book store built with Bootstrap.
+
+![](demo.gif)
