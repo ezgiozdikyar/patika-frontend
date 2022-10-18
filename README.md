@@ -40,7 +40,7 @@ A simple recipe app created only using HTML and CSS.
 ## :books: Simple Book Store
 Simple company website example contains main page, about us, contact and products.
 
-![](hw4/demo.gif)
+![](/hw4/demo.gif)
 
 ## :thought_balloon: Clone of Google 1998
 Clone of Google which was created in 1998.
@@ -55,9 +55,9 @@ Clone of current version of Google.
 ## :books: Book Store (improved)
 Simple book store example created using Bootstrap.
 
-![](hw7/demo.gif)
+![](/hw7/demo.gif)
 
  ## :camera: Instagram Clone
 Created Instagram clone using Bootstrap.
 
-![](hw8/demo.gif)
+![](/hw8/demo.gif)
