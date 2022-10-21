@@ -55,6 +55,7 @@ Clone of current version of Google.
 ## :books: Book Store (improved)
 Book store example improved using Bootstrap.
 
+![](/hw7/demo.gif)
 
  ## :camera: Instagram Clone
 Created Instagram clone using Bootstrap.
